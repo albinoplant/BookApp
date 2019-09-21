@@ -1,6 +1,6 @@
 # BookApp
 
-#### Technologies I'm going to use
+#### I'm going to use:
 
 
 ![Adobe XD icon](https://avatars2.githubusercontent.com/u/41522403?s=40&v=4)
